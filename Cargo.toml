@@ -1,2 +1,2 @@
 [workspace]
-members = ["openxr-opengl"]
+members = ["openxr-opengl", "webxr-webgl"]
